@@ -9,7 +9,8 @@
 
 ### About
 Podman Desktop is a developer-friendly open source tool that offers robust and scalable features to work with images, containers, pods, and Kubernetes. Get an intuitive interface to effortlessly bridge the gap between local development and Kubernetes clusters. Build, manage, and deploy your application with ease from a single tool.
-Any mission statement of this community project??
+
+
 Our mission is to enhance and simplify the use of Podman-native capabilities among developers as they transition from their native development environment to a podified or Kubernetes-environment. The goal is to help them succeed with a unified solution that satisfies most of their development needs.
 
 As Podman is often recommended as the ideal middle ground, providing robust yet lightweight container capabilities, while maintaining alignment with Kubernetes, Podman Desktop provides a gradual experience for developers to build their expertise. 
@@ -40,18 +41,19 @@ Need to quickly learn the tool and get an overview of its capabilities, view the
 
 ### Your contribution matters
 
-🚨 [Report Issues](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#reporting-issues): Share bugs or improvement suggestions on GitHub, including details and reproduction steps.
-👾 [Fix Bugs/Develop Features](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#working-on-issues): Explore the issue tracker, fork the repository, make changes, and submit pull requests.
-🆕 [Propose Features](https://github.com/podman-desktop/podman-desktop/issues/new?template=enhancement.yml): Suggest and contribute new functionality, UI enhancements, or integrations.
-🛠️ [Build Plug-ins](https://podman-desktop.io/docs/extensions/developing): Add missing integrations by developing plug-ins using the provided guide.
-📝 [Improve Documentation](https://github.com/podman-desktop/podman-desktop/tree/main/website/docs): Enhance existing docs, create guides, or write tutorials.
-💻 [Contribute to the Website](https://github.com/podman-desktop/podman-desktop/blob/main/WEBSITE_CONTRIBUTING.md): Help improve the website’s content, design, or translations.
-🦭 [Become an Adopter](https://github.com/podman-desktop/podman-desktop/blob/main/ADOPTERS.md): Showcase your use of Podman Desktop by joining the adopters list.
+- 🚨 [Report Issues](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#reporting-issues): Share bugs or improvement suggestions on GitHub, including details and reproduction steps.
+- 👾 [Fix Bugs/Develop Features](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#working-on-issues): Explore the issue tracker, fork the repository, make changes, and submit pull requests.
+- 🆕 [Propose Features](https://github.com/podman-desktop/podman-desktop/issues/new?template=enhancement.yml): Suggest and contribute new functionality, UI enhancements, or integrations.
+- 🛠️ [Build Plug-ins](https://podman-desktop.io/docs/extensions/developing): Add missing integrations by developing plug-ins using the provided guide.
+- 📝 [Improve Documentation](https://github.com/podman-desktop/podman-desktop/tree/main/website/docs): Enhance existing docs, create guides, or write tutorials.
+- 💻 [Contribute to the Website](https://github.com/podman-desktop/podman-desktop/blob/main/WEBSITE_CONTRIBUTING.md): Help improve the website’s content, design, or translations.
+- 🦭 [Become an Adopter](https://github.com/podman-desktop/podman-desktop/blob/main/ADOPTERS.md): Showcase your use of Podman Desktop by joining the adopters list.
 
 Check the [contribution guidelines](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md) and code architecture for guidance, and join the Kubernetes Slack (#podman-desktop) to collaborate with contributors.
 
 
-**Additional resources**
+### Additional resources
  
 Project governance
+
 Other community resources
