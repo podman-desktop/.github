@@ -10,11 +10,9 @@
 ### About
 Podman Desktop is a developer-friendly open source tool that offers robust and scalable features to work with images, containers, pods, and Kubernetes. Get an intuitive interface to effortlessly bridge the gap between local development and Kubernetes clusters. Build, manage, and deploy your application with ease from a single tool.
 
-
 Our mission is to enhance and simplify the use of Podman-native capabilities among developers as they transition from their development environment to a podified or Kubernetes-environment. The goal is to help them succeed with a unified solution that satisfies most of their development needs.
 
 As Podman is often recommended as the ideal middle ground, providing robust yet lightweight container capabilities, while maintaining alignment with Kubernetes, Podman Desktop provides a gradual experience for developers to build their expertise. 
-
 
 ### Key features
 
@@ -29,7 +27,7 @@ As Podman is often recommended as the ideal middle ground, providing robust yet 
 Learn more in [Podman Desktop Documentation](https://podman-desktop.io/docs/intro).
 
 ### Quick Install
-Podman Desktop is available on Windows, macOS, and Linux. Find your favorite way to download and install it [here](/docs/installation). 
+Podman Desktop is available on Windows, macOS, and Linux. Find your favorite way to download and install it [here](https://podman-desktop.io/docs/installation). 
 
 ### Getting Started
 Need to quickly learn the tool and get an overview of its capabilities, check out these links:
@@ -54,6 +52,4 @@ Check the [contribution guidelines](https://github.com/podman-desktop/podman-des
 
 ### Additional resources
  
-Project governance
-
-Other community resources
+- [Project governance](https://docs.google.com/document/d/1onDTJxGjVZUuqX1Y7MHgvqf9t9_L7oAHcXPIserX100/edit?tab=t.0#heading=h.n27i858hqauw)
