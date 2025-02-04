@@ -47,7 +47,7 @@ Need to quickly learn the tool and get an overview of its capabilities, check ou
 - 💻 [Contribute to the Website](https://github.com/podman-desktop/podman-desktop/blob/main/WEBSITE_CONTRIBUTING.md): Help improve the website’s content, design, or translations.
 - 🦭 [Become an Adopter](https://github.com/podman-desktop/podman-desktop/blob/main/ADOPTERS.md): Showcase your use of Podman Desktop by joining the adopters list.
 
-Check the [contribution guidelines](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md) and code architecture for guidance, and join the Kubernetes Slack (#podman-desktop) to collaborate with contributors.
+Check the [contribution guidelines](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md) and [code architecture](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#code-architecture) for guidance, and join the Kubernetes Slack (#podman-desktop) to collaborate with contributors.
 
 
 ### Additional resources
