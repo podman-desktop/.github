@@ -48,8 +48,3 @@ Need to quickly learn the tool and get an overview of its capabilities, check ou
 - 🦭 [Become an Adopter](https://github.com/podman-desktop/podman-desktop/blob/main/ADOPTERS.md): Showcase your use of Podman Desktop by joining the adopters list.
 
 Check the [contribution guidelines](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md) and [code architecture](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md#code-architecture) for guidance, and join the Kubernetes Slack (#podman-desktop) to collaborate with contributors.
-
-
-### Additional resources
- 
-- [Project governance](https://docs.google.com/document/d/1onDTJxGjVZUuqX1Y7MHgvqf9t9_L7oAHcXPIserX100/edit?tab=t.0#heading=h.n27i858hqauw)
