@@ -4,7 +4,7 @@
    
 [Installation](https://podman-desktop.io/docs/installation) | [Documentation](https://podman-desktop.io/docs/intro) | [How to Contribute](https://github.com/podman-desktop/podman-desktop/blob/main/CONTRIBUTING.md) | [Chat on Discord](https://discord.com/invite/x5GzFF6QH4) | [Current Sprint](https://github.com/orgs/containers/projects/4/views/8)
 
-![Image](https://github.com/user-attachments/assets/2f9d933f-2a08-47f7-b4ca-9f7cc5acb873)
+![Image](hero.png)
 
 ### About
 Podman Desktop is a developer-friendly open-source tool that offers robust and scalable features to work with images, containers, pods, and Kubernetes. Get an intuitive interface to effortlessly bridge the gap between local development and Kubernetes clusters. Build, manage, and deploy your application with ease from a single tool.
